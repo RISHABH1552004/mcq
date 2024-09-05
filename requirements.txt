@@ -5,4 +5,4 @@ streamlit
 pyPDF2
 python-dotenv
 
-.e
+-e .
